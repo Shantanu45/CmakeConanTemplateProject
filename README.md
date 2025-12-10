@@ -1,1 +1,1 @@
-Cmake template Visual studio project with gtest and spdlog
+Cmake template Visual studio project with Conan package manager support
